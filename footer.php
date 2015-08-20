@@ -10,7 +10,7 @@
 
 			</footer>
 			<!-- /footer -->
-
+            </div>
 		</div>
 		<!-- /wrapper -->
 
